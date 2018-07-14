@@ -107,6 +107,11 @@
             "browserTarget": "latest-project:build",
             "serverTarget": "latest-project:server",
             "route": "shell"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "latest-project:build:production"
+            }
           }
         }
       }
