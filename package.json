@@ -21,6 +21,7 @@
     "@angular/platform-browser-dynamic": "6.0.9",
     "@angular/platform-server": "6.0.9",
     "@angular/router": "6.0.9",
+    "@angular/service-worker": "6.0.9",
     "core-js": "^2.5.4",
     "rxjs": "^6.0.0",
     "zone.js": "^0.8.26"
